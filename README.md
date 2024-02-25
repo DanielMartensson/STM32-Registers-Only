@@ -1,5 +1,7 @@
 # STM32-Registers-Only
 
+![a](https://github.com/DanielMartensson/STM32-Registers-Only/blob/main/logo.png?raw=true)
+
 This is a repository where I uploading projects that are made with registers only. 
 That means I don't use `HAL` or `CubeMX`. I only access the registers and set the `bit` values.
 The reason why I'm creating this repository is to documnenting for future use.
