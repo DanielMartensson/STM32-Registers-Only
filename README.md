@@ -15,3 +15,4 @@ There are three reasons to use registers compared to `HAL` or `CubeMX`.
 The uploaded projects contains support for
 
 * STM32F401RE - Blink an LED with a timer as delay
+* STM32F401RE - Fade an LED with PWM
