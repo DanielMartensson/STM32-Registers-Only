@@ -10,7 +10,7 @@ There are three reasons to use registers compared to `HAL` or `CubeMX`.
 
 * Learn how a typical microcontroller works
 * Accessing the registers creates a much faster operation
-* It's fun to dive into the registers, even the learning curve is quite high
+* It's fun to dive into the registers, even if the learning curve is quite high
 
 The uploaded projects contains support for
 
